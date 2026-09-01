@@ -13,6 +13,7 @@ I am an AI and data science engineer pursuing an MSc in Artificial Intelligence 
 
 ## Featured work
 
+- [Silicon Debug Copilot](https://github.com/HarshSaand/silicon-debug-copilot) — evidence-grounded system-log triage with traceable citations and safe abstention
 - [EdgeCase Foundry](https://github.com/HarshSaand/edgecase-foundry) — reproducible transaction-model stress testing
 - [Merchant Mirror](https://github.com/HarshSaand/merchant-mirror) — explainable merchant resolution from noisy payment descriptors
 - [PausePoint](https://github.com/HarshSaand/pausepoint) — streaming NLP for conversational social-engineering signals
