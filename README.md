@@ -13,6 +13,8 @@ I am an AI and data science engineer pursuing an MSc in Artificial Intelligence 
 
 ## Featured work
 
+- [TrackWise](https://github.com/HarshSaand/trackwise) — trained motion association, with sequence-disjoint probes and two real detector-tracking pilots; the learned model's online limitations are documented
+- [StereoScope](https://github.com/HarshSaand/stereoscope) — calibrated SGBM/RAFT-Stereo comparison on 27 ETH3D pairs and a scoped synthetic confidence-training pilot
 - [Silicon Debug Copilot](https://github.com/HarshSaand/silicon-debug-copilot) — evidence-grounded system-log triage with traceable citations and safe abstention
 - [EdgeCase Foundry](https://github.com/HarshSaand/edgecase-foundry) — reproducible transaction-model stress testing
 - [Merchant Mirror](https://github.com/HarshSaand/merchant-mirror) — explainable merchant resolution from noisy payment descriptors
